@@ -1,0 +1,1065 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"to",
+				"topicCallback"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"top",
+				"topicCallback"
+			],
+			[
+				"call",
+				"callbackArg"
+			],
+			[
+				"pu",
+				"pub_data"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"pub",
+				"PubSub"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"p",
+				"proto\tPrototype"
+			],
+			[
+				"e",
+				"eventPool"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"C",
+				"Carousel"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"fo",
+				"formtips"
+			],
+			[
+				"form",
+				"formtips"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"sele",
+				"select1"
+			],
+			[
+				"se",
+				"select2"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"m",
+				"myTitle"
+			],
+			[
+				"t",
+				"two_li"
+			],
+			[
+				"li",
+				"li_3"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"li_1"
+			],
+			[
+				"ul",
+				"ul_1"
+			],
+			[
+				"con",
+				"containers"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"back",
+				"backButton"
+			],
+			[
+				"bac",
+				"back-to-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tab",
+				"tabPanels"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"tabl",
+				"tabli"
+			],
+			[
+				"html",
+				"htmlWebpackPlugin"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"nav",
+				"navSide"
+			],
+			[
+				"i",
+				"iLength"
+			],
+			[
+				"sear",
+				"search-input"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sea",
+				"search-btn"
+			],
+			[
+				"load",
+				"loadCartCount"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ht",
+				"htmlTemplate"
+			],
+			[
+				"web",
+				"webpack"
+			],
+			[
+				"We",
+				"WEBPACK_ENV"
+			],
+			[
+				"get",
+				"getHtmlConfig"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"Page",
+				"PageSwitch"
+			],
+			[
+				"pageS",
+				"PageSwitch"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ocp",
+				"opacity"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"page",
+				"page-top"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"windo",
+				"windowScroll"
+			],
+			[
+				"node",
+				"nodeWidth"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"app",
+				"app_key"
+			],
+			[
+				"json",
+				"jsoncallback"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"img",
+				"imgLen"
+			],
+			[
+				"pla",
+				"playPre"
+			],
+			[
+				"ig",
+				"imgCt"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"A",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"on",
+				"onError"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"val",
+				"formValidata"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"search",
+				"searchSubmit"
+			],
+			[
+				"ser",
+				"search-btn"
+			],
+			[
+				"lo",
+				"loadCartCount"
+			],
+			[
+				"ge",
+				"getUrlParam"
+			],
+			[
+				"webpa",
+				"webpack-dev-server"
+			],
+			[
+				"ti",
+				"tigger"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"la",
+				"lazyLoad"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"btn",
+				"btnLists"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"item",
+				"itemArr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/C/Users/Administrator/Desktop/express-sticky-note/src/webpack.config.js",
+			"file_size": 148,
+			"file_write_time": 131586023948399759,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Project: Save As"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =   sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf='Package Control.sublime-package'; ipp=sublime.installed_pac",
+			"import urllib.request,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_pat"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/express-sticky-note",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/app",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/express-sticky-note/package.json",
+		"/C/Users/Administrator/Desktop/ES6/index.js",
+		"/C/Users/Administrator/Desktop/ES6/package.json",
+		"/C/Users/Administrator/Desktop/ES6/.babelrc",
+		"/C/Users/Administrator/Desktop/ES6/es6.js",
+		"/C/Users/Administrator/Desktop/ES6/es5.js",
+		"/C/Users/Administrator/Desktop/ES6/class/arr.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/src/js/index.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/package.json",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/src/js/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/订阅发布模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/单例模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/构造函数模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/模块模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/混合模式.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/工厂模式实例.html",
+		"/C/Users/Administrator/Desktop/页面/webpack/webpack.config.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/dist/bundle.js",
+		"/C/Users/Administrator/Desktop/页面/webpack/index.html",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/webpack.config.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/demo.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/index.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/waterfull.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/expose.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/carousel.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/index.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/webpack.config.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/webpack.config.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/package.json",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/dist/bundle.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/src/service/address-service.js",
+		"/C/Users/Administrator/Desktop/AMD_CMD_RequireJS/build.js",
+		"/C/Users/Administrator/Desktop/AMD_CMD_RequireJS/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/package.json",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/src/service/order-service.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/dist/view/index.html",
+		"/C/Users/Administrator/Desktop/-4-AMD_CMD_RequireJS-master/build.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/main.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/AMD_CMD_RequireJS/node_modules/r.js/package.json",
+		"/C/Users/Administrator/Desktop/页面/index.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/main.js",
+		"/C/Users/Administrator/Desktop/页面/src/main.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/carousel.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/expose.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/waterfull.js",
+		"/C/Users/Administrator/Desktop/页面/build.js",
+		"/C/Users/Administrator/Desktop/页面/main.js",
+		"/C/Users/Administrator/Desktop/页面/page.css",
+		"/C/Users/Administrator/Desktop/页面/src/js/app/app.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/app/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/index.html",
+		"/C/Users/Administrator/Desktop/页面/.router.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.4下拉框应用.html",
+		"/C/Users/Administrator/Desktop/带锋利的JQuery第二版的源码/Ch5/demo5-表单验证/demo4.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.3复选框应用1.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.3复选框应用2.html",
+		"/C/Users/Administrator/Desktop/带锋利的JQuery第二版的源码/Ch5/demo3-复选框全选反选/demo1.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.2滚动条高度变化.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.2多行文本框应用动画改进.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.1单行文本框.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.2多行文本框应用初始化.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第三章/page.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第四章/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第四章/demo.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第四章/demo2.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/page.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第二章/demo.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第三章/demo.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第三章/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第一章/index.html",
+		"/C/Users/Administrator/Desktop/demo.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/page.css",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/实战代码/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/实战代码/style.css",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/轮播/fadeCarousel.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/面向对象/carousel组件.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/tab切换效果和模拟框效果/tab.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/面向对象/Tab组件.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/tab切换效果和模拟框效果/frame.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/order-confirm.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/order-list.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/webpack.config.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-list/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/address-list.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/product-list.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/address-modal.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/address-modal.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/cities/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/service/order-service.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/service/address-service.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/cart.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/cart/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/order-confirm/index.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/cart/index.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/cart/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/list.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/layout/html-common.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/detail/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/detail.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/result.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/detail/index,js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/detail/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/detail/index.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/pagination/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/pagination/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/list/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/pagination/index.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/list/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/service/product-service.js",
+		"/C/Users/Administrator/Desktop/电商平台/慕课网/mmall/src/page/list/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/list/index.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/index/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/index/banner.string",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/slider/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/index/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/common/header/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/user-pass-update/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/index.html",
+		"/C/Users/Administrator/Desktop/电商平台/慕课网/mmall/src/view/layout/header.html",
+		"/C/Users/Administrator/Desktop/电商平台/慕课网/mmall/src/util/slider/index.css",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/util/slider/index.js",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/view/user-pass-update.html",
+		"/C/Users/Administrator/Desktop/电商平台/mmall-fe/src/page/user-pass-update/index.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"student",
+			"clearInterval",
+			"-",
+			"clearInterval",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/express-sticky-note/src/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								12,
+								24,
+								23,
+								19,
+								52,
+								14,
+								255,
+								85,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Administrator\\Desktop\\express-sticky-note\\src\\js\\app",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Administrator\\Desktop\\express-sticky-note\\src\\js\\mod",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Administrator\\Desktop\\express-sticky-note\\src\\js\\mod",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a.js",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

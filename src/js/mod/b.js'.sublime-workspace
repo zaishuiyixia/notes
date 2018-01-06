@@ -1,0 +1,1236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"lineTo"
+			],
+			[
+				"s",
+				"strokeRect"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"d",
+				"drawing"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pad",
+				"pad\tpadding"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"re",
+				"requireDir"
+			],
+			[
+				"gulp",
+				"gulpSequence"
+			],
+			[
+				"de",
+				"describe"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"keys",
+				"keysFunc"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"f",
+				"findAll"
+			],
+			[
+				"se",
+				"sequelize"
+			],
+			[
+				"_",
+				"_this"
+			],
+			[
+				"N",
+				"NoteManager"
+			],
+			[
+				"col",
+				"colSumHeight"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ev",
+				"events"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"to",
+				"topicCallback"
+			],
+			[
+				"top",
+				"topicCallback"
+			],
+			[
+				"call",
+				"callbackArg"
+			],
+			[
+				"pu",
+				"pub_data"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"pub",
+				"PubSub"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"e",
+				"eventPool"
+			],
+			[
+				"C",
+				"Carousel"
+			],
+			[
+				"fo",
+				"formtips"
+			],
+			[
+				"form",
+				"formtips"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"sele",
+				"select1"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"m",
+				"myTitle"
+			],
+			[
+				"t",
+				"two_li"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"li_1"
+			],
+			[
+				"ul",
+				"ul_1"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"back",
+				"backButton"
+			],
+			[
+				"bac",
+				"back-to-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"tab",
+				"tabPanels"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"tabl",
+				"tabli"
+			],
+			[
+				"html",
+				"htmlWebpackPlugin"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"i",
+				"iLength"
+			],
+			[
+				"sear",
+				"search-input"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sea",
+				"search-btn"
+			],
+			[
+				"load",
+				"loadCartCount"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ht",
+				"htmlTemplate"
+			],
+			[
+				"web",
+				"webpack"
+			],
+			[
+				"We",
+				"WEBPACK_ENV"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"pd",
+				"padding-left"
+			],
+			[
+				"Page",
+				"PageSwitch"
+			],
+			[
+				"pageS",
+				"PageSwitch"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ocp",
+				"opacity"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"page",
+				"page-top"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"windo",
+				"windowScroll"
+			],
+			[
+				"node",
+				"nodeWidth"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"app",
+				"app_key"
+			],
+			[
+				"json",
+				"jsoncallback"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"img",
+				"imgLen"
+			],
+			[
+				"pla",
+				"playPre"
+			],
+			[
+				"ig",
+				"imgCt"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"A",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"on",
+				"onError"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>个人简历</title>\n    <link rel=\"stylesheet\" href=\"css/reset.css\">\n    <link rel=\"stylesheet\" href=\"css/main.css\">\n    <link rel=\"stylesheet\" href=\"css/font-awesome/css/font-awesome.min.css\">\n    <link rel=\"stylesheet\" href=\"css/bootstrap/css/bootstrap.min.css\">\n</head>\n<body>\n    <!-- [if lte IE8]>\n    <p class=\"browserUpdate\">您的浏览器版本过低，请及时更新浏览器，以获取最佳的体验~</p>\n    <![endif]-->\n\n    <nav class=\"navbar\">\n        <div class=\"container\">\n           <!--  <div class=\" navbar-head home-img clearfix\">\n                <a href=\"index.html\" class=\"navbar-brand\">\n                    <img src=\"img/pic1.jpg\" alt=\"\">\n                </a>\n            </div> -->\n            <ul class=\"clearfix\">\n                <li class=\"active\"><a href=\"#about\"><i class=\"fa fa-file\" aria-hidden=\"true\"></i>主页</a></li>\n                <li><a href=\"#works\"><i class=\"fa fa-book\" aria-hidden=\"true\" aria-hidden=\"true\"></i>项目</a></li>\n                <li><a href=\"javascript:window.print()\"><i class=\"fa fa-print\" aria-hidden=\"true\" aria-hidden=\"true\"></i>打印</a></li>\n                <li><a href=\"#contact\"><i class=\"fa fa-envelope\" aria-hidden=\"true\" aria-hidden=\"true\"></i>联系我</a></li>\n            </ul>\n        </div>\n    </nav>\n    <section id=\"intro\">\n        <div class=\"overlay\"></div>\n        <div class=\"slogan\">\n            <div class=\"pic\">\n                <img src=\"img/pic1.jpg\" alt=\"myPhoto\">\n            </div>\n            <h4>热爱前端、炸鸡、啤酒和哈士奇的巨蟹座Boy~</h4>\n        </div>  \n    </section>\n    <section id=\"about\" class=\"clearfix\">\n        <div class=\"abt-title-ct container\">\n            <h3 class=\"abt-title\">about me</h3>\n            <i class=\"fa fa-2x fa-angle-down\"></i>\n            <hr class=\"about-line\">\n        </div>\n        <!-- <div class=\"abt-content-ct clearfix\">\n            <div class=\"float container \">\n                <div class=\"abt-left-ct\">\n                    <div class=\"abt-left fl\">\n                        <h5><a href=\"\"><span>姓&nbsp; &nbsp; &nbsp; &nbsp;名：</span>&nbsp; &nbsp;徐国军</a></h5>\n                        <h5><a href=\"\"><span>毕业学校：</span>&nbsp; &nbsp;东北大学</a></h5>\n                        <h5><a href=\"\"><span>年 &nbsp; &nbsp; &nbsp; &nbsp;龄：</span>&nbsp; &nbsp;25</a></h5>\n                        <h5><a href=\"\"><span>求职意向：</span>&nbsp; &nbsp;前端工程师</a></h5>\n                        <h5><a href=\"\"><span>前端经验：</span>&nbsp; &nbsp;一年</a></h5>\n                    </div>\n                </div>\n                <div class=\"abt-right-ct\">\n                    <div class=\"abt-right fr\">\n                        <h5>自我评价</h5>\n                        <p> 因为热爱，所以选择。热爱前端，热爱互联网。热衷于专研前端技术，对新技术新知识充满兴趣，能够自我驱动学习前端知识。</p>\n                        <p>在学习的过程中，坚持在简书上写博客，记录学习到的前端知识，学习时的心得和成长。至今字数已达10万字，博客数量已达百篇。</p>\n                        <p>熟悉W3C规范，能够编写语义化的HTML，实现较复杂的页面布局。熟悉HTML5、CSS3新特性。</p>\n                        <p>了解 AJAX、跨域、JSONP、CORS，前后端交互。能够用原生 JS 封装AJAX。</p>\n                        <p>熟悉jQuery，使用jQuery封装过轮播组件、Tab切换组件、懒加载组件、回到顶部组件、加载更多组件、瀑布流组件等。</p>\n                        <p>了解 CommonJS、AMD、CMD 模块化规范，能够使用 webpack、gulp进行模块打包等前端工程化工具。</p>\n                        <p>了解 Sass、less等 CSS 预编译工具。</p>\n                    </div>\n                </div>\n            </div>\n        </div> -->\n        <div class=\"col-md-6 abt-left\">\n            <div class=\"abt-left-ct\">\n                <div class=\"accordion\">\n                    <div class=\"accordion-section\">\n                        <h5><a class=\"accordion-section-title\" href=\"#accordion-1\">\n                            <span>姓&nbsp; &nbsp; &nbsp; &nbsp;名</span>&nbsp;徐国军\n                        </a></h5>\n                    </div>\n                    <div class=\"accordion-section\">\n                        <h5><a class=\"accordion-section-title\" href=\"#accordion-2\">\n                            <span>毕业学校</span> 东北大学\n                        </a></h5>\n                    </div>\n                    <div class=\"accordion-section\">\n                        <h5><a class=\"accordion-section-title\" href=\"#accordion-3\">\n                            <span>年&nbsp; &nbsp; &nbsp; &nbsp;龄</span>&nbsp;25\n                        </a></h5>\n                    </div>\n                    <div class=\"accordion-section\">\n                        <h5><a class=\"accordion-section-title\" href=\"#accordion-4\">\n                            <span>前端经验</span>&nbsp;1年\n                        </a></h5>\n                    </div>\n                    <div class=\"accordion-section\">\n                        <h5><a class=\"accordion-section-title\" href=\"#accordion-4\">\n                            <span>求职意向</span>&nbsp;前端工程师\n                        </a></h5>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"col-md-6 abt-right \">\n            <div class=\"abt-right-ct\">\n                <h5>自我评价</h5>\n                <p> 因为热爱，所以选择。热爱前端，热爱互联网。热衷于专研前端技术，对新技术新知识充满兴趣，能够自我驱动学习前端知识。</p>\n                <p>在学习的过程中，坚持在简书上写博客，记录学习到的前端知识，学习时的心得和成长。至今字数已达10万字，博客数量已达百篇。</p>\n                <p>熟悉W3C规范，能够编写语义化的HTML，实现较复杂的页面布局。熟悉HTML5、CSS3新特性。</p>\n                <p>了解 AJAX、跨域、JSONP、CORS，前后端交互。能够用原生 JS 封装AJAX。</p>\n                <p>熟悉jQuery，使用jQuery封装过轮播组件、Tab切换组件、懒加载组件、回到顶部组件、加载更多组件、瀑布流组件等。</p>\n                <p>了解 CommonJS、AMD、CMD 模块化规范，能够使用 webpack、gulp进行模块打包等前端工程化工具。</p>\n                <p>了解 Sass、less等 CSS 预编译工具。</p>\n            </div>\n        </div>\n    </section>\n    <section id=\"skills\">\n        <div class=\"skills-ct container\">\n            <div class=\"skill-title-ct\">\n                <h3 class=\"skills-title\">skills</h3>\n                <i class=\"fa fa-2x fa-angle-down\"></i>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </section>\n    <section id=\"works\">\n        <div class=\"works-ct\">\n            <div class=\"works-title-ct\">\n                <h3 class=\"works-title\">PORTFOLIO</h3>\n                <i class=\"fa fa-2x fa-angle-down\"></i>\n                <hr class=\"line\">\n            </div>\n            <ul class=\"works-album\">\n                <li>\n                    <a href=\"\">\n                        <img src=\"\" alt=\"\">\n                        <span>君君商城</span>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"\">\n                        <img src=\"\" alt=\"\">\n                        <span>君君商城</span>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"\">\n                        <img src=\"\" alt=\"\">\n                        <span>君君商城</span>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"\">\n                        <img src=\"\" alt=\"\">\n                        <span>君君商城</span>\n                    </a>\n                </li>\n                <li>\n                    <a href=\"\">\n                        <img src=\"\" alt=\"\">\n                        <span>君君商城</span>\n                    </a>\n                </li>\n            </ul>\n        </div>\n    </section>\n    <section id=\"contact\">\n        <h3 class=\"con-title\">contact</h3>\n        <i class=\"fa fa-2x fa-angle-down\"></i>\n        <hr class=\"line\">\n       <!--  <div class=\"wrap\">\n            <div class=\"contact-ct container clearfix\">\n                <div class=\"form-ct\">\n                    <div class=\"con-form fl\">\n                        <form action=\"\">\n                            <input id=\"name\" type=\"text\" value=\"Enter name\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Enter name';}\">\n                            <input id=\"email\" type=\"text\" value=\"Enter email\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Enter email';}\">\n                            <textarea id=\"message\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Message...';}\";>Message...</textarea>\n                            <input type=\"submit\" value=\"SEND MESSAGE\">\n                        </form>\n                    </div>\n                </div>\n                <div class=\"con-information fr\">\n                    <div class=\"con-infor-ct clearfix\">\n                        <ul class=\"infor-name fl\">\n                            <li>Adress：</li>\n                            <li>Phone：</li>\n                            <li>Email：</li>\n                            <li>Github：</li>\n                            <li>Blog：</li>\n                        </ul>\n                        <ul class=\"infor-data fr\">\n                             <li>\n                                <span>深圳市,南岗区</span>\n                            </li>\n                             <li>\n                                <span>15944329882</span>\n                            </li>\n                             <li>\n                                <span>1720966051@qq.com</span>\n                            </li>\n                            <li>\n                                <a href=\"https://github.com/zaishuiyixia\" target=\"_blank\">github.com/zaishuiyixia</a>\n                            </li>\n                            <li>\n                                <a href=\"https://www.jianshu.com/u/6d5f3f6492f8\" target=\"_blank\">jianshu.com/u/6d5f3f6492f8</a>\n                            </li>\n                        </ul>\n                        <div class=\"social-net\">\n                            <h4>My social networks</h4>\n                            <ul class=\"clearfix\">\n                                <li><a href=\"\" class=\"social-weixin\"><i class=\"fa fa-weixin\" aria-hidden=\"true\"></i></a></li>\n                                <li><a href=\"\" class=\"social-qq\"><i class=\"fa fa-qq\" aria-hidden=\"true\"></i></a></li>\n                                <li><a href=\"\" class=\"social-weibo\"><i class=\"fa fa-weibo\" aria-hidden=\"true\"></i></a></li>\n                            </ul>\n                        </div>   \n                    </div>\n                </div>\n            </div>\n        </div> -->\n        <div class=\"contact-ct\">\n            <div class=\"container\">\n                <div class=\"col-md-6 contact-left \">\n                     <div class=\"form-ct\">\n                        <div class=\"con-form fl\">\n                            <form action=\"\">\n                                <input id=\"name\" type=\"text\" value=\"Enter name\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Enter name';}\">\n                                <input id=\"email\" type=\"text\" value=\"Enter email\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Enter email';}\">\n                                <textarea id=\"message\" onfocus=\"this.value = ''\"; onblur=\"if (this.value == '') {this.value = 'Message...';}\";>Message...</textarea>\n                                <input type=\"submit\" value=\"SEND MESSAGE\">\n                            </form>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"col-md-6 contact-right \">\n                    <div class=\"con-information fr\">\n                        <div class=\"con-infor-ct clearfix\">\n                            <ul class=\"infor-name fl\">\n                                <li>Adress：</li>\n                                <li>Phone：</li>\n                                <li>Email：</li>\n                                <li>Github：</li>\n                                <li>Blog：</li>\n                            </ul>\n                            <ul class=\"infor-data fr\">\n                                 <li>\n                                    <span>深圳市,南岗区</span>\n                                </li>\n                                 <li>\n                                    <span>15944329882</span>\n                                </li>\n                                 <li>\n                                    <span>1720966051@qq.com</span>\n                                </li>\n                                <li>\n                                    <a href=\"https://github.com/zaishuiyixia\" target=\"_blank\">github.com/zaishuiyixia</a>\n                                </li>\n                                <li>\n                                    <a href=\"https://www.jianshu.com/u/6d5f3f6492f8\" target=\"_blank\">jianshu.com/u/6d5f3f6492f8</a>\n                                </li>\n                            </ul>\n                            <div class=\"social-net\">\n                                <h4>My social networks</h4>\n                                <ul class=\"clearfix\">\n                                    <li><a href=\"\" class=\"social-weixin\"><i class=\"fa fa-weixin\" aria-hidden=\"true\"></i></a></li>\n                                    <li><a href=\"\" class=\"social-qq\"><i class=\"fa fa-qq\" aria-hidden=\"true\"></i></a></li>\n                                    <li><a href=\"\" class=\"social-weibo\"><i class=\"fa fa-weibo\" aria-hidden=\"true\"></i></a></li>\n                                </ul>\n                            </div>   \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n    <footer>\n        <p>©Copyright 2017 - Xu guojun All rights reserved.</p>\n    </footer>\n\n    <script src=\"js/lib/jquery.min.js\"></script>\n    <script src=\"js/lib/bootstrap.min.js\"></script>\n    <script src=\"js/mod/main.js\"></script>\n</body>\n</html>",
+			"file": "/C/Users/Administrator/Desktop/resume/src/index.html",
+			"file_size": 14965,
+			"file_write_time": 131593719744850416,
+			"settings":
+			{
+				"buffer_size": 13374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/resume/src/css/main.css",
+			"settings":
+			{
+				"buffer_size": 13056,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/express-sticky-note/node_modules/postcss-modules-local-by-default/node_modules/source-map/dist/source-map.debug.js",
+			"settings":
+			{
+				"buffer_size": 272862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Project: Save As"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =   sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf='Package Control.sublime-package'; ipp=sublime.installed_pac",
+			"import urllib.request,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_pat"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Administrator/Desktop/resume",
+		"/C/Users/Administrator/Desktop/resume/src",
+		"/C/Users/Administrator/Desktop/resume/src/js",
+		"/C/Users/Administrator/Desktop/resume/src/js/mod",
+		"/C/Users/Administrator/Desktop/demo"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/demo/demo.html",
+		"/C/Users/Administrator/Desktop/resume/src/css/main.css",
+		"/C/Users/Administrator/Desktop/resume/src/favicon.ico",
+		"/C/Users/Administrator/Desktop/resume/src/404.html",
+		"/C/Users/Administrator/Desktop/resume/src/index.html",
+		"/C/Users/Administrator/Desktop/resume/src/css/reset.css",
+		"/C/Users/Administrator/Desktop/resume/demo.html",
+		"/C/Users/Administrator/Desktop/resume/css/main.css",
+		"/C/Users/Administrator/Desktop/resume/resume.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/page.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/page.css",
+		"/C/Users/Administrator/Desktop/resume/css/reset.css",
+		"/C/Users/Administrator/Desktop/新建文件夹/HTML-and-CSS-master/电商网站/css/main.css",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/app/index.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/node-manager.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/note.js",
+		"/C/Users/Administrator/Desktop/ES6/package.json",
+		"/C/Users/Administrator/Desktop/ES6/tasks/server.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/util/args.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/ES6/package.json",
+		"/C/Users/Administrator/Desktop/新建文件夹/ES6/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/ES6/es6.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/ES6/es5.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/ES6/.babelrc",
+		"/C/Users/Administrator/Desktop/teacher/tasks/scripts.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/scripts.js",
+		"/C/Users/Administrator/Desktop/ES6/app/js/index.js",
+		"/C/Users/Administrator/Desktop/teacher/app/js/index.js",
+		"/C/Users/Administrator/Desktop/ES6/app/js/class/test.js",
+		"/D/Documents/Tencent Files/1720966051/FileRecv/teacher/tasks/util/args.js",
+		"/C/Users/Administrator/Desktop/ES6/gulpfile.babel.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/browser.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/css.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/pages.js",
+		"/C/Users/Administrator/Desktop/ES6/.babelrc",
+		"/C/Users/Administrator/Desktop/ES6/tasks/build.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/default.js",
+		"/C/Users/Administrator/Desktop/ES6/tasks/clean.js",
+		"/C/Users/Administrator/Desktop/express框架/app.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/routes/auth.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/model/note.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/routes/api.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/views/index.ejs",
+		"/C/Users/Administrator/Desktop/express-sticky-note/routes/index.js",
+		"/C/Users/Administrator/Desktop/express/package.json",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/toast.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/app.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note/routes/api.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note/model/note.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note/routes/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note实战代码/models/note.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note实战代码/app.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note实战代码/routes/api.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/express-sticky-note实战代码/routes/index.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/waterfall.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/event.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/webpack.config.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/package.json",
+		"/C/Users/Administrator/Desktop/express-sticky-note/database/database.sqlite",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/less/index.less",
+		"/C/Users/Administrator/Desktop/express-sticky-note/public/test.html",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/node-manger.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/waterfull.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/less/note.less",
+		"/C/Users/Administrator/Desktop/express-sticky-note/public/js/index.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/less/toast.less",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/webpack.config.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/a.js",
+		"/C/Users/Administrator/Desktop/express-sticky-note/demo.html",
+		"/C/Users/Administrator/Desktop/express-sticky-note/src/js/mod/b.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/webpack.config.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/package.json",
+		"/C/Users/Administrator/Desktop/ES6/index.js",
+		"/C/Users/Administrator/Desktop/ES6/es6.js",
+		"/C/Users/Administrator/Desktop/ES6/es5.js",
+		"/C/Users/Administrator/Desktop/ES6/class/arr.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/src/js/index.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/package.json",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/src/js/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/webpack/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/订阅发布模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/单例模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/构造函数模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/模块模式实例.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/混合模式.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/设计模式/工厂模式实例.html",
+		"/C/Users/Administrator/Desktop/页面/webpack/webpack.config.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/dist/bundle.js",
+		"/C/Users/Administrator/Desktop/页面/webpack/index.html",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/webpack/webpack.config.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/demo.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/index.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/waterfull.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/expose.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/com/carousel.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/index.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/webpack.config.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/package.json",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/dist/bundle.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/src/service/address-service.js",
+		"/C/Users/Administrator/Desktop/AMD_CMD_RequireJS/build.js",
+		"/C/Users/Administrator/Desktop/AMD_CMD_RequireJS/index.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/package.json",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/src/service/order-service.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/电商平台/mmall-fe/dist/view/index.html",
+		"/C/Users/Administrator/Desktop/-4-AMD_CMD_RequireJS-master/build.js",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/js/main.js",
+		"/C/Users/Administrator/Desktop/页面/JavaScript/AMD_CMD_RequireJS/node_modules/r.js/package.json",
+		"/C/Users/Administrator/Desktop/页面/index.html",
+		"/C/Users/Administrator/Desktop/页面/AMD_CMD_RequireJS/src/main.js",
+		"/C/Users/Administrator/Desktop/页面/src/main.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/carousel.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/expose.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/gotop.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/com/waterfull.js",
+		"/C/Users/Administrator/Desktop/页面/build.js",
+		"/C/Users/Administrator/Desktop/页面/main.js",
+		"/C/Users/Administrator/Desktop/页面/page.css",
+		"/C/Users/Administrator/Desktop/页面/src/js/app/app.js",
+		"/C/Users/Administrator/Desktop/页面/src/js/app/index.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/任务/页面/index.html",
+		"/C/Users/Administrator/Desktop/页面/.router.js",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.4下拉框应用.html",
+		"/C/Users/Administrator/Desktop/带锋利的JQuery第二版的源码/Ch5/demo5-表单验证/demo4.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.3复选框应用1.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/jquery书上代码/第五章/5.1表单应用/5.1.3复选框应用2.html",
+		"/C/Users/Administrator/Desktop/带锋利的JQuery第二版的源码/Ch5/demo3-复选框全选反选/demo1.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"abt",
+			"about",
+			"abt",
+			"about",
+			"abt",
+			"about",
+			"abt",
+			"about",
+			"skills",
+			"abt",
+			".skills-title",
+			"title",
+			"h3",
+			"h2",
+			"2",
+			"abt-title",
+			"h2",
+			"2",
+			"margin: 20px 0 30px;",
+			"padding-top: 90px;",
+			"100px",
+			"%;\n",
+			"nav-ct",
+			".abt-ct",
+			"2rem",
+			"width: 100%;",
+			"nav",
+			"50",
+			"rgba(255,255,255,.2);",
+			" a",
+			"</li>",
+			"</a>",
+			"<li>",
+			"3",
+			";\n",
+			"placeholder",
+			"16",
+			"#666",
+			"contact",
+			"div.contact-ct",
+			"3",
+			"works",
+			"abt",
+			"skills",
+			"abt",
+			"h3",
+			":</",
+			"h3",
+			"h4",
+			";",
+			"self",
+			"new ",
+			"new",
+			"users",
+			"let",
+			"student",
+			"clearInterval",
+			"-",
+			"clearInterval",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/resume/src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13344,
+								13344
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								12,
+								29,
+								13,
+								41,
+								20,
+								6,
+								203,
+								235,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/ASP/HTML-ASP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3237.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Administrator\\Desktop\\resume\\src\\js\\mod",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/Users/Administrator/Desktop/resume/src/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10416,
+								10416
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								12,
+								29,
+								16,
+								28,
+								26,
+								5,
+								11,
+								31,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7813.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Administrator/Desktop/express-sticky-note/node_modules/postcss-modules-local-by-default/node_modules/source-map/dist/source-map.debug.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 272862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38660,
+								38660
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								225,
+								12,
+								25,
+								14,
+								25,
+								8,
+								13,
+								121,
+								135,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "b.js'.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
