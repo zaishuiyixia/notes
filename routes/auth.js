@@ -27,7 +27,7 @@ passport.use(new GithubStrategy({
     // callbackURL: "http://localhost:3000/auth/github/callback"
     clientID: 'f05bf996f208f051425d',
     clientSecret: '24a468e5ff3fe0274703a86181cd802a2b1c7ed0',
-    callbackURL: "http://localhost:3000/auth/github/callback"
+    callbackURL: "http://www.expressnotes.top/auth/github/callback"
 }, function (accessToken, refreshToken, profile, done) {
     // User.findOrCreate({ githubId: profile.id }, function (err, user) {
     // });
