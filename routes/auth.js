@@ -1,9 +1,3 @@
-/*
-* @Author: Administrator
-* @Date:   2017-12-26 20:11:42
-* @Last Modified by:   Administrator
-* @Last Modified time: 2017-12-27 17:38:17
-*/
 var express = require('express');
 var router = express.Router();
 var passport = require("passport");
